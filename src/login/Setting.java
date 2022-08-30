@@ -4,5 +4,5 @@ public class Setting {
 
     // create setting
 
-    // I changed some setting here - sam
+    // I changed some setting here - from Jamal
 }
